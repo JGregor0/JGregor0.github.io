@@ -1,0 +1,40 @@
+body {
+  font-family: "Gill Sans";
+}
+
+.col-12, .col-6{
+  margin: 10px 0 10px 0;
+}
+
+.row{
+  background-color: #c0e5f8;
+}
+
+/* Formato de listas */
+#lista_datos_contacto, #lista_soft, #lista_lang {
+  text-align: left;
+}
+
+.lista_formacion{
+  text-align: left;
+}
+
+/* Formato headings */
+#titulo_contacto{
+  color: silver;
+  background-color: #8954F4;
+}
+
+h2 {
+  color:#070667;
+  font-style: bold;
+  text-decoration: underline;
+  background-color: #97d8f9;
+}
+
+h3 {
+  font-style: italic;
+}
+
+
+
